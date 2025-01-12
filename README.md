@@ -13,7 +13,8 @@ Methodology
   
 
 Results and Performance
-Datasets Tested: 1000, 50000, 100000, 1000000, 2000000, 4000000 elements.
-Processors: 4, 8, 16, 24.
-Performance Metrics: Execution time, speedup, efficiency.
-Observations: MPI showed better performance for smaller datasets, while CUDA excelled for massive data sizes.
+
+* Datasets Tested: 1000, 50000, 100000, 1000000, 2000000, 4000000 elements.
+* Processors: 4, 8, 16, 24.
+* Performance Metrics: Execution time, speedup, efficiency.
+* Observations: MPI showed better performance for smaller datasets, while CUDA excelled for massive data sizes.
