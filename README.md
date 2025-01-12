@@ -1,4 +1,5 @@
 Project Overview
+
 This project implements a Parallelized Hybrid Sorting Algorithm combining Quick Sort and Insertion Sort for efficient handling of large datasets. The hybrid approach leverages the divide-and-conquer technique of Quick Sort with the simplicity and efficiency of Insertion Sort for smaller partitions. Parallelization using MPI and CUDA further optimizes the sorting process for big data applications.
 
 Methodology
